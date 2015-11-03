@@ -7,8 +7,9 @@ homepage: https://github.com/kseo/range_collection
 environment:
   sdk: '>=1.0.0 <2.0.0'
 
-#dependencies:
-#  lib_name: any
+dependencies:
+  interval_skip_list: ">=0.0.3 <0.1.0"
+  quiver: '>=0.21.0<0.22.0'
 
 dev_dependencies:
   test: '>=0.12.0 <0.13.0'
