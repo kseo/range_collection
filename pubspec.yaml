@@ -9,7 +9,8 @@ environment:
 
 dependencies:
   interval_skip_list: ">=0.0.3 <0.1.0"
-  quiver: '>=0.21.0<0.22.0'
+  quiver_check: '>=1.0.0-dev.1<1.1.0'
+  quiver_iterables: '>=1.0.0-dev.1<1.1.0'
 
 dev_dependencies:
   test: '>=0.12.0 <0.13.0'

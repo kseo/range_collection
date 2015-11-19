@@ -6,8 +6,8 @@ library range_collection.range_collection;
 import 'dart:collection';
 
 import 'package:interval_skip_list/interval_skip_list.dart';
-import 'package:quiver/check.dart';
-import 'package:quiver/iterables.dart';
+import 'package:quiver_check/check.dart';
+import 'package:quiver_iterables/iterables.dart';
 
 part 'range_collection/bound_type.dart';
 part 'range_collection/cut.dart';
