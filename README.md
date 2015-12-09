@@ -2,6 +2,9 @@
 
 A collection library for Range data type. This project is heavily inspired by Guava's [Range][range], [RangeSet][rangeset] and [RangeMap][rangemap] classes.
 
+[![Build Status](https://travis-ci.org/kseo/range_collection.svg)](https://travis-ci.org/kseo/range_collection)
+[![Coverage Status](https://coveralls.io/repos/kseo/range_collection/badge.svg?branch=master&service=github)](https://coveralls.io/github/kseo/range_collection?branch=master)
+
 [range]: https://github.com/google/guava/wiki/RangesExplained
 [rangeset]: https://github.com/google/guava/wiki/NewCollectionTypesExplained#rangeset
 [rangemap]: https://github.com/google/guava/wiki/NewCollectionTypesExplained#rangemap
